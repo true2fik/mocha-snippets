@@ -19,18 +19,18 @@ In order to install an extension, you need to open the Extensions Palette (`Ctrl
 
 | Snippet       | Code                              |
 | ------------- | --------------------------------- |
-| `describe`    | describe('', () => {<br><br>});   |
-| `context`     | context('', () => {<br><br>});    |
-| `specify`     | specify('', () => {<br><br>});    |
-| `it`          | it('should', () => {<br><br>});   |
+| `describe`    | describe("", () => {<br><br>});   |
+| `context`     | context("", () => {<br><br>});    |
+| `specify`     | specify("", () => {<br><br>});    |
+| `it`          | it("should", () => {<br><br>});   |
 | `before`      | before(() => {<br><br>});         |
-| `beforeNamed` | before('', () => {<br><br>});     |
+| `beforeNamed` | before("", () => {<br><br>});     |
 | `beforeEach`      | beforeEach(() => {<br><br>});         |
-| `beforeEachNamed` | beforeEach('', () => {<br><br>});     |
+| `beforeEachNamed` | beforeEach("", () => {<br><br>});     |
 | `after`      | after(() => {<br><br>});         |
-| `afterNamed` | after('', () => {<br><br>});     |
+| `afterNamed` | after("", () => {<br><br>});     |
 | `afterEach`      | afterEach(() => {<br><br>});         |
-| `afterEachNamed` | afterEach('', () => {<br><br>});     |
+| `afterEachNamed` | afterEach("", () => {<br><br>});     |
 
 **[⬆ Back to top](#Installation)**
 
